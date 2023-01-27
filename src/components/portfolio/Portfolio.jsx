@@ -8,28 +8,28 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Memento Memories",
+    title: "MementoMemories",
     github: "https://gitfront.io/r/user-1443730/RwBoq9xNzvyx/Memento/",
     demo: "https://mementomemories.com",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Java Locator",
+    title: "JavaLocator",
     github: "https://github.com/alicessilva22/Java-Locator",
     demo: "https://github.com/alicessilva22/Java-Locator",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Trending Memories",
+    title: "FavMovies",
     github: "https://github.com/okdavekk/movie-preferences",
     demo: "https://github.com/okdavekk/movie-preferences",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Trending Music",
+    title: "TrendingMusic",
     github: "https://github.com/saislam10/TrendingMusic",
     demo: "https://saislam10.github.io/TrendingMusic/",
   },
@@ -42,7 +42,7 @@ const Portfolio = () => {
       <h2> Portfolio </h2>
 
       <div className="container portfolio__container">
-        {data.map(({ id, image, title, github, type, demo }) => {
+        {data.map(({ id, image, title, github, demo }) => {
           return (
             <article key={id} className="portfolio__item">
               <div className="portfolio__item-image">
