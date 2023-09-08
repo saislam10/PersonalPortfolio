@@ -47,7 +47,7 @@ const About = () => {
         </div>
 
         <p>
-          Hi, I'm Safwan Islam, a Computer Science major at Davidson College (c/o 2024). In Summer 2022, I secured a Full-Stack Web Development certificate from UNC Charlotte and later joined a student-led startup "H and O Technologies," leading their UI and Frontend. Our team successfully completed multiple projects, amassing $10k in revenue. Additionally, in summer 2023, I collaborated with Dr. Laurie Heyer at Davidson on an HTML-to-ePUB conversion project and contributed to Forest Systems' frontend as their intern. Presently, I'm the head of frontend development at Loupt, a budding crowdfunding startup. Beyond tech, I'm an avid soccer fan (#COYS) and love exploring new places (visited 12 countries in 2023!).
+          Hi, I'm Safwan Islam, a Computer Science major at Davidson College (c/o 2024). In Summer 2022, I secured a Full-Stack Web Development certificate from UNC Charlotte and later joined a student-led startup "H and O Technologies," leading their UI and Frontend. Our team successfully completed multiple projects, amassing $10k in revenue. Additionally, in Summer 2023, I collaborated with Dr. Laurie Heyer at Davidson on an HTML-to-ePUB conversion project and contributed to Forest Systems' frontend as their intern. Presently, I'm the head of frontend development at Loupt, a budding crowdfunding startup. Beyond tech, I'm an avid soccer fan (#COYS) and love exploring new places (visited 12 countries in 2023!).
         </p>
 
         <a href="#contact" className='btn btn-primary'> Let's Talk</a>
