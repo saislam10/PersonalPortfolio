@@ -35,17 +35,18 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a target="_blank" href="https://facebook.com/safwan.islam20">
+        <a target="_blank" rel="noreferrer" href="https://facebook.com/safwan.islam20">
           {" "}
           <FaFacebookF />{" "}
         </a>
-        <a target="_blank" href="https://instagram.com/safwanislam9">
+        <a target="_blank" rel="noreferrer" href="https://instagram.com/safwanislam9">
           {" "}
           <FaInstagram />{" "}
         </a>
         <a
           target="_blank"
           href="https://www.snapchat.com/add/skillysafwan?share_id=MbWZAHXoQlGvj3Q3n+sG7g&locale=en_US&sid=4ebc7d2064354b81938883cce3625fb4"
+          rel="noreferrer"
         >
           {" "}
           <FaSnapchat />
@@ -55,12 +56,12 @@ const Footer = () => {
       <div className="footer__socials">
         <a
           href="https://www.linkedin.com/in/safwan-islam-70a095246/"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           {" "}
           <BsLinkedin />{" "}
         </a>
-        <a href="https://github.com/saislam10" target="_blank">
+        <a href="https://github.com/saislam10" target="_blank" rel="noreferrer">
           {" "}
           <FaGithub />
         </a>
